@@ -1,0 +1,16 @@
+Date,Product_Name,Category,Units_Sold,Stock_On_Hand,Reorder_Level,Lead_Time_Days,Unit_Price
+2025-01-01,Rice,Food,20,180,50,5,1.2
+2025-01-02,Rice,Food,25,155,50,5,1.2
+2025-01-03,Rice,Food,30,125,50,5,1.2
+2025-01-04,Rice,Food,28,97,50,5,1.2
+2025-01-05,Rice,Food,35,62,50,5,1.2
+2025-01-01,Sugar,Food,15,135,40,4,1.0
+2025-01-02,Sugar,Food,18,117,40,4,1.0
+2025-01-03,Sugar,Food,22,95,40,4,1.0
+2025-01-04,Sugar,Food,20,75,40,4,1.0
+2025-01-05,Sugar,Food,25,50,40,4,1.0
+2025-01-01,Milk,Dairy,10,90,30,3,0.8
+2025-01-02,Milk,Dairy,12,78,30,3,0.8
+2025-01-03,Milk,Dairy,15,63,30,3,0.8
+2025-01-04,Milk,Dairy,18,45,30,3,0.8
+2025-01-05,Milk,Dairy,20,25,30,3,0.8
