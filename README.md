@@ -94,7 +94,7 @@ The dashboard provides analytical decision support. Its risk indicators should b
 
 ## 🚀 Live Dashboard
 
-**Explore the interactive application:** [Retail Inventory Optimization Dashboard](ADD_YOUR_STREAMLIT_APP_URL_HERE)
+**Explore the interactive application:** [Retail Inventory Optimization Dashboard](https://retail-inventory-optimization-egjzo4vvqsdx42qkvpuycb.streamlit.app/)
 
 ## 📁 Project Structure
 
