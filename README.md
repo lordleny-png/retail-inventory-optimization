@@ -94,8 +94,11 @@ The dashboard provides analytical decision support. Its risk indicators should b
 
 ## 🚀 Live Dashboard
 
-**Explore the interactive application:** [Retail Inventory Optimization Dashboard](https://retail-inventory-optimization-egjzo4vvqsdx42qkvpuycb.streamlit.app/)
+Explore the interactive Retail Inventory Optimization dashboard:
 
+**[📊 Launch the Retail Inventory Optimization Dashboard](https://retail-inventory-optimization-egjzo4vvqsdx42qkvpuycb.streamlit.app/)**
+
+The application enables users to filter retail data by category, store, and date range; analyze sales and estimated revenue; compare product performance; and monitor potential inventory risks.
 ## 📁 Project Structure
 
 ```text
