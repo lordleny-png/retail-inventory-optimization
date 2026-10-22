@@ -91,6 +91,10 @@ This project demonstrates how business analytics can help retail teams:
 - Support purchasing, replenishment, and inventory planning discussions.
 
 The dashboard provides analytical decision support. Its risk indicators should be validated against actual lead times, service-level targets, and business rules before being used operationally.
+## 📸 Dashboard Preview
+
+![Retail Inventory Optimization Dashboard](images/dashboard.png)
+
 
 ## 🚀 Live Dashboard
 
